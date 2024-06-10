@@ -1,3 +1,9 @@
+Proyecto 2 Caleb Sánchez y Jacksem Cortés
+
+https://proyecto2calebjackprograweb.netlify.app/admin/calendar
+
+usuario: admin contra: admin
+
 # time-tracking
 
 ## Project setup
